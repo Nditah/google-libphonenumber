@@ -12,5 +12,7 @@ angular.module('i18n', [])
 });
 ```
 
-## How to compile
-To compile Google libphonenumber follow these steps: http://stackoverflow.com/a/35401754/1116959
+## How to update the compiled file
+The `libphonenumber.js` included in this project is a compiled version of the Google libphonenumber repo (current version: `libphonenumber-7.5.2`)
+
+To update to a newer version follow these steps: http://stackoverflow.com/a/35401754/1116959
